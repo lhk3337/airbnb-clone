@@ -1,11 +1,11 @@
-Airbnb-clone
+# Airbnb-clone
 
-1. Material UI
-2. React Hooks
-3. React Router
-4. Firebase Hosting
-5. Flexbox
-6. Responsive AF!
-7. Grow/Shrink Animation
-8. CSS game is strong
-9. Data picker
+[x] Material UI
+[x] React Hooks
+[x] React Router
+[x] Firebase Hosting
+[x] Flexbox
+[x] Responsive AF!
+[x] Grow/Shrink Animation
+[x] CSS game is strong
+[x] Data picker
