@@ -17,3 +17,14 @@
 ### - CSS game is strong
 
 ### - Data picker
+
+----------
+## Structor
+- Home
+  - Header
+  - Banner
+    - Search
+   - Cards
+   - Footer
+- SearchPage
+  - ...
