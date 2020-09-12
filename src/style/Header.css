@@ -38,3 +38,21 @@
   width: 15vw;
   margin-right: 80px;
 }
+.header__right > p {
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 12px;
+}
+.header__right > p:hover {
+  background-color: #f7f7f7;
+  border-radius: 20px;
+}
+.header__right .global__icon {
+  cursor: pointer;
+  padding: 8px 12px;
+}
+.header__right .global__icon:hover {
+  border-radius: 20px;
+  background-color: #f7f7f7;
+}
