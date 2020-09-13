@@ -1,6 +1,6 @@
-## - Deploy Site URL
+### Deploy Site URL
 
-## - https://airbnb-clone-a8281.web.app/
+### https://airbnb-clone-a8281.web.app/
 
 # Airbnb-clone with Reactjs
 
